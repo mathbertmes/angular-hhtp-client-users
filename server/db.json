@@ -1,0 +1,16 @@
+{
+  "users": [
+      {
+          "id": 1,
+          "name": "Batman",
+          "email": "batman@gmail.com",
+          "password": "123456789"
+      },
+      {
+          "id": 2,
+          "name": "Spider Man",
+          "email": "spider-man@gmail.com",
+          "password": "spider123man"
+      }
+  ]
+}
