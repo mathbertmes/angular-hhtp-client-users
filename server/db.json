@@ -13,16 +13,28 @@
       "password": "spider123man"
     },
     {
+      "0": {
+        "id": "1",
+        "name": "Batman",
+        "email": "batman@gmail.com",
+        "password": "123456789"
+      },
+      "1": {
+        "id": "2",
+        "name": "Spider Man",
+        "email": "spider-man@gmail.com",
+        "password": "spider123man"
+      },
+      "2": {
+        "id": "dcc9",
+        "name": "math",
+        "email": "mathbertemes@gmail.com",
+        "password": "sdwdd"
+      },
       "id": "dcc9",
-      "name": "math",
-      "email": "mathbertemes@gmail.com",
-      "password": "sdwdd"
-    },
-    {
-      "id": "8694",
-      "name": "math",
-      "email": "dd",
-      "password": "dd"
+      "name": "Updated User",
+      "email": "update@hotmail.com",
+      "password": "testss"
     }
   ]
 }

@@ -1,1 +1,12 @@
-<p>user-edit works!</p>
+<h3>Update User</h3>
+<br>
+<input type="text" [(ngModel)]="userData.name"
+    placeholder="Name">
+<br>
+<input type="text" [(ngModel)]="userData.email"
+    placeholder="Email">
+<br>
+<input type="text" [(ngModel)]="userData.password"
+    placeholder="Password">
+<br>
+<button (click)="updateUser()">Update</button>
