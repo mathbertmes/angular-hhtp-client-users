@@ -1,1 +1,13 @@
-<p>user-create works!</p>
+<div>
+  <h3>Create User</h3>
+  <input type="text" [(ngModel)]="userDetails.name"
+      placeholder="Name">
+  <br>
+  <input type="text" [(ngModel)]="userDetails.email"
+      placeholder="Email">
+  <br>
+  <input type="text" [(ngModel)]="userDetails.password"
+      placeholder="Password">
+  <br>
+  <button (click)="addUser(userDetails)">Create</button>
+</div>
